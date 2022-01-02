@@ -1,2 +1,4 @@
 # Image-Inpainting
- Black spot and other noises can be removed from an image by image inpainting method. The project is created to implement inpaint method.
+ Image Inpainting: Image inpainting refers to the process of filling-in missing data in a designated region of the visual input. The object of the process is to reconstruct missing parts or damaged image in such a way that the inpainted region cannot be detected by a causal observer. A preimplemented image inpainting method of opencv is used here.
+ 
+ Read More: https://www.geeksforgeeks.org/image-inpainting-using-opencv/
